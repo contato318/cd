@@ -25,7 +25,7 @@ spec:
             - name: CONTAINER_COLOR
               value: teal
             - name: TITLE
-              value: Hello Rancher              
+              value: CORREIOS
             - name: PETS
               value: whitecows   
           readinessProbe:
